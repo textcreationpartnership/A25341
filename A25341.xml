@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antient testimony of the primitive Christians and martyrs of Jesus Christ revived against tythes, or, A relation of the sufferings of William Dobson of Slade-end in the parish of Brightwell in Barkshire because for conscience-sake he could not pay tythes ... and for thirteen years was much exercised by imprisonment and loss of goods and the last day of the 3d month call'd May 1677 dyed a prisoner for the same : to which is annexed a short account of the sufferings of Michael Reynolds ... because he could not for conscience-sake pay tythes ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25341</idno>
+            <idno type="STC">Wing A3074</idno>
+            <idno type="STC">ESTC R25883</idno>
+            <idno type="EEBO-CITATION">09276034</idno>
+            <idno type="OCLC">ocm 09276034</idno>
+            <idno type="VID">42585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1299:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antient testimony of the primitive Christians and martyrs of Jesus Christ revived against tythes, or, A relation of the sufferings of William Dobson of Slade-end in the parish of Brightwell in Barkshire because for conscience-sake he could not pay tythes ... and for thirteen years was much exercised by imprisonment and loss of goods and the last day of the 3d month call'd May 1677 dyed a prisoner for the same : to which is annexed a short account of the sufferings of Michael Reynolds ... because he could not for conscience-sake pay tythes ...</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dobson, William.</term>
+               <term>Persecution --  Great Britain.</term>
+               <term>Tithes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42585:1"/>
+            <pb facs="tcp:42585:1" rendition="simple:additions"/>
+            <p>THE Antient Teſtimony OF THE <hi rend="blackletterType">Primitive Chriſtians,</hi> AND MARTYRS of <hi>JESUS CHRIST,</hi> Revived, againſt TYTHES. Or, A RELATION of the Sufferings of WILLIAM DOBSON, of <hi>Slade-end,</hi> in the Pariſh of BRIGHTWELL in BARKSHIRE, becauſe for Conſcience-ſake he could not pay <hi>Tythes</hi> unto <hi>RALPH WHISTLER,</hi> Tyth-monger of the ſame Pariſh; And for Thirteen Years was much Exerciſed by Impriſonment, and loſs of Goods: And the laſt Day of the 3<hi>d.</hi> Month call'd <hi>May</hi> 1677. Dyed a Priſoner for the ſame. To which is anexed, A ſhort Account of the Sufferings of <hi>Michael Reynolds</hi> of <hi>FARRINGDON</hi> in the ſame County, becauſe he could not for Conſcience-ſake, pay TYTHES to <hi>ROBERT PYE.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Foraſmuch then as Chriſt hath ſuffered for Us in the Fleſh, Arm your ſelves likewiſe wit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the ſame mind; For he that hath ſuffered in the Fleſh, ceaſed from Sin: For the time pa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of our Life may ſuffice us to have wrought the will of the Gentiles, when we walked in wan<g ref="char:EOLunhyphen"/>tonneſs, Luſts, Drunkenneſs, and abominable Idolatries, wherein they think it ſtrange tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you run not with them to the ſame Exceſs of Ryot, speaking evil of You, who ſhall give ac<g ref="char:EOLunhyphen"/>count to him that is ready to Judge the Quick and the Dead.</hi>
+               </p>
+               <bibl>1. <hi>Pet.</hi> 4.1,2,3,4,5.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Having a good Conſcience, that whereas they ſpeak evil of You, as of Evil Doers, the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may be aſhamed that falſly accuſe your good Converſation in Chriſt.</hi>
+               </p>
+               <bibl>1 <hi>Pet.</hi> 3.16.</bibl>
+            </q>
+            <p>
+               <hi>He that oppreſſeth the Poor to increaſe his Riches, ſhall ſurely come to want.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42585:2"/>
+            <pb n="1" facs="tcp:42585:2"/>
+            <head>To the Moderate READER.</head>
+            <opener>
+               <salute>FRIEND,</salute>
+            </opener>
+            <p>HOw great have been the Sufferings that many honeſt men, (yea, ſuch as truly feared the Lord, and hated Covetouſneſs,) have ſuſtained and un<g ref="char:EOLhyphen"/>dergone; and what ſpoil and havock have been made upon many peoples Goods, within this 25 years, and ſome have died in nasty Goals and Priſons, whereby their VVives have been made VVidows, and their Children left Fatherleſs; Be<g ref="char:EOLhyphen"/>cauſe they could not for Conſcience-ſake pay Tythes to Pariſh Miniſters and Im<g ref="char:EOLhyphen"/>propriators, which is all one in the ground, as hath been plainly manifeſted by many Testimonies, that have been publiſhed, which are extant in Print; tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tythes as they are now forced and paid, are Antichristian; though there wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a time under the Law, in which the Levitical Prieſthood had a command t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> receive Tythes of their brethren: But after Christ Jeſus came in the Fleſh, a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> was offered up, which fulfilled the Law, and firſt Covenant, and put a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end to that Prieſthood, VVe find no Preſident in the Holy-Scriptures of t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> New-Testament for the payment of Tythes, but the contrary, as may be ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Heb.</hi> 7th. <hi>chap.</hi> and ſo forward; where the Apoſtle ſpeaks much concerni<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the firſt Covenant, Prieſthood, and Offerings appertaining thereunto: a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> (ſaith he.) <hi>The Prieſthood being changed, there is made of neceſſity <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> change of the Law;</hi> and ſo goes on ſpeaking of Christ Jeſus the one off<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ring, and everlaſting High-Prieſt to them that believe; as is largly trea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed on there, which the Reader may do well to peruſe, who deſires ſatisfactio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therein.</p>
+            <p>And although the Children of <hi>Levi,</hi> which received the office of that Pries<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>hood, had a command to take (according to the Law) Tythes of their Br<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>thren, yet we do not find they ſued men at Law, and took three times the valu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or ten times the value of ſuch as refuſed to pay, as ſome do now adays, w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> can have no reaſonable pretence to be of the Tribe of <hi>Levi,</hi> but rather of th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whom the Lord ſent his Prophets to cry againſt, who preached for hire, a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſought for their gain from their Quarter, and cryed Peace, Peace, to ſuch <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put into their mouths, and them that put not into their mouths, they prepar<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> VVar againſt, as it is at this day.</p>
+            <pb n="2" facs="tcp:42585:3"/>
+            <p>And Chriſt Jeſus when he ſent forth his Miniſters to preach the Gospel of the Kingdom, to heal the Sick, cleanſe the Leapers, <hi>&amp;c.</hi> He bid them provide neither Gold, nor Silver, nor Braſs in their Purſes: But <hi>freely ye have re<g ref="char:EOLhyphen"/>ceived, freely give.</hi> To preach freely the Gospel to all Nations; and he that ſent them out, provided for them, ſo that they wanted nothing: And the great care of the true Ministers of Chriſt was, <hi>that they might not make the Goſpel chargable,</hi> but rather wrought with their hands. They did not ſettle them<g ref="char:EOLhyphen"/>ſelves in large Benifices, and make a bargain with the People for ſo much a year to be their Miniſter, or Sue People for Maintainance; but witneſſed againſt ſuch an hireling Ministry, and their forced Maintainance alſo, whoſe Teſtimony the Lord hath again revived.</p>
+            <p>The Martyrs likewiſe, many of them did bear Teſtimony against Tythes, and it was an Article amongſt others, for which ſome ſuffered in the burning Flames, by the mercileſs Papists in Queen <hi>Maries</hi> days, worthy of the remem<g ref="char:EOLhyphen"/>brance of all true Chriſtian Protestants.</p>
+            <p>So it is no new thing that the People of the Lord (called <hi>Quakers</hi>) have ſuffered ſo deeply for, but the ancient Teſtimony to the Coming, Death, and Reſurrection of our Lord and Saviour Jeſus Chriſt; which they that plead for Tythes in this Gospel-day, do in effect deny.</p>
+            <p>And as for our Friend <hi>William Dobſon,</hi> deceaſed, we have this to ſay; That his Neighbours and Country-men, (yea his very Enemies) can tell, he was an honeſt man, a peacable quiet man: And many who for many years were fellow Priſoners with him in <hi>Redding</hi> Goal, can teſtifie (from a certain know<g ref="char:EOLhyphen"/>ledge, if need were) much concerning his Integrity to the Lord, and his bleſſed Truth, for he loved the Prosperity thereof, and was a zealous Contender for the ſame; a very plain man, and of a quiet frame of Spirit, very cheerful and loving, and not given to change; and in all his Exerciſes and Sufferings, we never heard him in the leaſt to murmur or complain, but always freely given up in his Teſtimony, for the unchangable truth, wherein he was concern<g ref="char:EOLhyphen"/>ed, being very well ſatisfied therein. This in ſhort is written, not deſiring to multiply Expreſſions in praiſe of our Friend, but proceed to give an account of his Sufferings for the Truth ſake, and leave it upon Record to Poſterity. Publiſhed by ſome of the People called <hi>Quakers,</hi> in <hi>Redding,</hi> who were his Fellow-priſoners for many years.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:42585:3"/>
+            <head>THE Antient TESTIMONY OF THE Primitive CHRISTIANS And Martyrs of JESUS CHRIST, Revived againſt Tyths, <hi>&amp;c.</hi>
+            </head>
+            <p>IN the year 1664, which was not long after it pleaſed the Lord to re<g ref="char:EOLhyphen"/>veal his truth and way everlaſting, unto <hi>William Dobſon,</hi> he was arreſted (becauſe he conſcientiouſly refus'd to pay Tythes) at the Suit of <hi>R. Whiſtler,</hi> and in the month called <hi>October,</hi> was had to <hi>Redding</hi> Goal, and kept 15 weeks, and then ſome related to him, (without his know<g ref="char:EOLhyphen"/>ledge,) paid <hi>R. W.</hi> his Demands, and ſo was releaſed for that time.</p>
+            <p>But the next year he was arreſted again at <hi>R. W</hi>'s Suit for Tythes, and had to <hi>Redding</hi> Goal in the 11 month 1665, and kept there near 15 week<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and then was removed to <hi>Weſtminſter, London,</hi> and made a Priſoner at the <hi>Fleet,</hi> and in a ſhort time after brought before the Court in <hi>Westmin<g ref="char:EOLhyphen"/>ſter;</hi> where he was falſly accuſed with a Debt of 35<hi>l.</hi> 11<hi>s.</hi> at the Suit of <hi>Ralph Whistler.</hi> The Judges ask'd <hi>William</hi> who was his Attorney? He told them, he had no Attorney, but was there in perſon to anſwer what they had to charge him with: and and whereas he was charged with a Debt of 35<hi>l.</hi> 11<hi>s.</hi> at the Suit of <hi>R. Whiſtler,</hi> he then declared that he owed him nothing: then they ſaid, <hi>Here is a Declaration againſt you, and you muſt return an anſwer to it;</hi> and <hi>VVilliam</hi> took the Declaration, and told the Court he would return an Anſwer to it, and ſo he was had back again to the <hi>Fleet.</hi> And the Declaration being in <hi>Latin,</hi> and Court-hand, he could not read it, ſo as to underſtand it but ſaw his Name was not in it, ſo he ſent it to a Lawyer, who drew up a Plea to this effect: <hi>That it could not be understood that he was the perſon intended in the Declaration, becauſe <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:42585:4"/>
+from his Nativity been known by the name of</hi> Dobſon, <hi>and by no other name; as likewiſe his Anceſtors before him.</hi> So his Anſwer was delivered into the Court by a Serjeant: and ſome that underſtood the Law, told <hi>William</hi> he would be Non-ſuited the next Term, it being not effectual in Law, for a man to be arreſted by one name, and proſecuted by another. But inſtead thereof, the next Term <hi>Ralph Whiſtler</hi>'s Attorney brought <hi>William</hi> a pe<g ref="char:EOLhyphen"/>remptory Rule from the Court, that unleſs he did rejoyn by <hi>Saturday</hi> next, Judgment ſhould be entred againſt him; telling ſome that were Priſoners in the <hi>Fleet</hi> the ſame time with <hi>William,</hi> that he could whiſper in the Jud<g ref="char:EOLhyphen"/>ges ear, [mark] and tell him what he was, and ſo carry on his deſign a<g ref="char:EOLhyphen"/>gainſt him; whereby he was conſtrained to put himſelf upon Tryal by the Country: and obtained leave of the Clark of the <hi>Fleet</hi> to be at the Aſſizes which was held at <hi>Abingdon</hi> for the County of <hi>Bucks,</hi> in the 5<hi>th.</hi> month, called <hi>July,</hi> 1666, where Judge <hi>Twiſden</hi> ſate Judge; and the firſt Tryal that was called was it, where <hi>William</hi> was called again by a wrong name, and he told the Jury, that was not his name; alſo one that ſtood by told the Judge, that <hi>William Dobſon</hi> had pleaded <hi>Miſnomer;</hi> but the Judge re<g ref="char:EOLhyphen"/>garded it not, but fell into a paſſion, and threatned <hi>William</hi> becauſe of his Hat, often calling him Sirrah, and falſe Knave; to which <hi>VVilliam</hi> reply'd, that <hi>He was a true man, and denied falſhood and deceit.</hi> The Judge (inſtead of hearing his lawful defence) cauſed the Sheriffs men to hale him out of the Court, and his Adverſaries Witneſs was ſworn, and then <hi>VVilliam</hi> was brought again into the Court, and <hi>R. VVhiſtlers</hi> Councellor (<hi>Tertullus</hi> like) began vehemently to accuſe <hi>VVilliam,</hi> for carrying away ſeveral Acres of Wheat, Barly, Beans, and Dills, no leſs than 13 Acres and a half more than he had, and the moſt part of ſuch Grain whereof he had none grow<g ref="char:EOLhyphen"/>ing (namely Beans) their falſe Witneſs (to wit <hi>John Smyth of Satwel</hi>) not only confirming what had been ſaid by the Councellor, but likewiſe over<g ref="char:EOLhyphen"/>valuing it; ſaid that <hi>Every Acre of wheat was worth</hi> 4l. <hi>and the Tythes</hi> 8s. <hi>and that every Acre of Barly was worth</hi> 2l. <hi>and the Tythes</hi> 4s. &amp;c. By which means the ſingle value amounted to almoſt 8<hi>l.</hi> which at the deareſt Rate, when Wheat was at 10<hi>s.</hi> the Buſhel, was valued at but 4<hi>l.</hi> 10<hi>s.</hi> the Tythe of <hi>VVilliam</hi>'s Farm by the year. The Judge cauſed the Clark to caſt it up, according as the Witneſs had falſly ſworn, and the treble Damage amounted to 23<hi>l.</hi> and odd Mony, and then called to the Jury to give in their Verdict, Who they found for, the Plaintiff, or the Defendant? whereupon, <hi>William</hi> deſired that the Jury might go together and conſider of the matter, giving them to underſtand that his Adverſaries Witneſs had ſworn very falſly, both as to the number of Acres, and alſo as to the value of the Corn, and of ſuch Grain of which it was well known to the Neighbours <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had none growing. Nevertheleſs, the Judge (being in a Paſſion) would not <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from the Bar but muſt give in their Verdict, and threa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed
+<pb n="5" facs="tcp:42585:4"/>
+the Defendant to lay him by the heels, telling him he diſturb'd the Court, for thus Speaking in his own juſt defence, denying their Lyes and falſe Accuſations. And the Judge being thus ſet againſt the Defendant, the Jury brought in for the Plaintiff, and the next Term they brought forth an Ex<g ref="char:EOLhyphen"/>ecution againſt him, by a wrong name likewiſe. And the 17<hi>th.</hi> day of the 9<hi>th.</hi> month 1666. <hi>Richard VVhite,</hi> an Ale-houſe keeper in <hi>VVallingford:</hi> with two lewd Fellows more of the baſer ſort, <hi>Ralph VVhiſtler</hi> with his Ser<g ref="char:EOLhyphen"/>vants aſſiſting them with his Horſe, and drew away <hi>VVilliam</hi>'s Cart, and Wheels, and Cart-rope to his own Houſe; they likewiſe led and drove away all the Cattle <hi>VVilliam</hi> had, and ſome Horſes and Cows that were none of his (being on his ground) although he told them they were none of his: The goods they took away were valued at 40<hi>l.</hi> whereupon <hi>VVil<g ref="char:EOLhyphen"/>liam</hi> gave the Under-Sheriff an account of the value of Goods which they had took from him, and that ſome of the Goods were not his: the Under-Sheriff promiſed to rectifie the buſineſs, but was not as good as his Word. And although <hi>Ralph Whiſtler</hi> had taken nine times the value of the Tythe demanded; yet he wiſht he had had ſo much more; and that <hi>William</hi> had nothing left him, and that it ſhould not be long before he would have him in Priſon again; and alſo in a Neighbours Houſe laid violent Hands on <hi>William,</hi> and wrapt one of his Fiſts in the Hair of his Head, and Struck him on the Head and Face, <hi>&amp;c.</hi> Inſomuch that the Conſtable could hardly get him off from abuſing him: which ma<g ref="char:EOLhyphen"/>nifeſted great envie as well as unreaſonablneſs. That nothing but the Ruine of this poor Man could be expected; had not the Lords power upheld him. But <hi>R. W:</hi> Was as good as his word in what he before threatned, <hi>viz.</hi> that it ſhould not be long before he would have him in Priſon again, for having taken away his Goods as before-mentioned, he ſoon cauſed his Body to be taken up again, thereby endeavouring what in them lay (as appears by their actions) to hinder him in his<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Imployment in manuring his Land for another Crop, towards the maintinance of his Family. About the middle of the 9<hi>th.</hi> Month 1667. <hi>William Dobſon</hi> was Arreſted again for Tythes at <hi>Ralph Whiſtlers</hi> Suit, to which he gave an Appearance, and thereby had liberty to follow his Imployment till the Aſſizes, which was about the middle of the 12<hi>th.</hi> Month following, holden at <hi>Reding,</hi> where it came to be Tryed, and (the ſame) Judge <hi>Twiſdon</hi> ſate Judge; who ſpying <hi>William</hi> in the Court with his Hat on, gave him ſuch another Salutation as he did before, at the Aſſizes at <hi>Abington</hi> the laſt year, <hi>viz.</hi> Come Sirrah, will you not put off your Hat yet? threatning to lay him by th'Heels, before <hi>William</hi> had ſpoken any thing whereby to make him ſo Angry. <hi>R. W</hi> s. Councellor began to Plead againſt <hi>William</hi> after their uſual manner, for Carrying away his Hay and Corn without paying Tythe; which they valued (as they ſaid)
+<pb n="6" facs="tcp:42585:5"/>
+at 12<hi>l.</hi> and odd Mony, which with treble Damages amounted to 36<hi>l.</hi> and odd Mony: and for proof thereof <hi>R. VV.</hi> brought his former Falſe Witneſs <hi>John Smith</hi> of <hi>Satwel;</hi> againſt whoſe Evidence <hi>VVilliam</hi> made exception, ſignifying to the Judge, that that was the Man who at the Aſſizes held at <hi>Abingdon</hi> the year before had Sworn falſly againſt him, and therefore his Evidence ought not to be received. The Judge asked whether he had Indicted him for Perjury? <hi>VVilliam</hi> ſaid no; but I can prove it againſt him; then the Judge ſaid he muſt receive his Evidence, until he be In<g ref="char:EOLhyphen"/>dicted; ſo <hi>Smith</hi> was Sworn, who took Oath that every Acre of Wheat was worth 50<hi>s.</hi> Which was very falſe, for Wheat was then at a very <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow rate; and the Judge alſo ſaid he could not ſee how it could be ſo much worth: however the Clark caſt it up according to what <hi>Smith</hi> had Sworn, and the ſingle value (they ſaid) did amount to 12<hi>l.</hi> (with tre<g ref="char:EOLhyphen"/>ble Damges to 36<hi>l.</hi>) But the Judge was ſo moderate that he left it to the Jury, and bid them to withdraw; and ſo they did; and abated one third part of that which the Witneſs had Sworn it was worth, (which <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gnifieth they gave not much Credit to his Evidence.) The Jury brought in the ſingle value at 8<hi>l.</hi> With treble Damages at 24<hi>l.</hi> and thereupon <hi>Ralph Whiſtler</hi> brought an Execution: and the 20<hi>th.</hi> day of the 3 Month 1668. <hi>Moſes Slade</hi> then Under-Sherriff, and <hi>Thomas Skeats</hi> of <hi>Redding,</hi> Bayliff, Seized on, and took away from <hi>William Dobſon</hi> a Gelding, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cows, (all he had) and drove them to <hi>Wallingford,</hi> and Sold them <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 14<hi>l.</hi> and which were well worth 17<hi>l.</hi> And when they had taken away the Goods without Doors, <hi>R. VV.</hi> not being ſatisfied therewith, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>irred up the Under-Sherriff to go again to take away more Goods; who <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t two very bad Fellows (as by their actions appeared,) namely, <hi>William <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ild,</hi> and <hi>Henry Weſton,</hi> Bayliffs; who went into <hi>William Dobſon</hi>'s Houſe the 29<hi>th.</hi> day of the ſame month, and took away all the Pewter and Braſs they could find, as Kettle, Skillet, Platters, and Skimmer. One Bed and Bolſter, one pair of Blankets, two pair of Sheets, four Sacks and a Win<g ref="char:EOLhyphen"/>nowing-ſheet: alſo of wearing-cloths, a Doublet, two pair of Breeches, and a great Coat of <hi>William</hi>'s, and two Waſtcoats, four Petticoats, and a Searge Hood of his Wives. And when they had loaded upon the Horſe what they had got within doors, they went about to drive away the Hoggs that were left; but the Swine ran away, and would not be drove by them; and ſo they had not the Hoggs that time. But the other Goods they carried to the <hi>George</hi> Inn in <hi>Wallingford,</hi> which Goods and Cloaths were worth about 11<hi>l.</hi> but what they ſold it for we have not heard. Yet, notwithſtanding, <hi>Ralph Whiſtler</hi> was not ſatisfied, as if indeed he were re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olved to ruine, or at leaſt to weary out this poor man. Having heard that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had bought ſome more Cows to yield ſome Milk for his Children, ſent <hi>Child</hi> the Bayliff again, and his Brother, in the 11<hi>th.</hi> month, 1668, to
+<pb n="7" facs="tcp:42585:5"/>
+               <hi>William</hi>'s Houſe, and then they took away three Cows, which was all he had, and were worth 10<hi>l.</hi> So that the Goods taken away on this Execution as before is mentioned, for 8<hi>l.</hi> the ſingle value demanded: in Cattle and Houſhold-goods, and wearing-cloths, was valued to be worth thirty eight Pounds.</p>
+            <p>Yet the next Year <hi>Ralph Whiſtler</hi> cauſed <hi>William</hi> to be Arreſted again, and in the 8 Month 1669. Or in a ſhort time after was ſent to <hi>Reading Goal,</hi> from his poor Wife and Children; and the latter end of the 9<hi>th:</hi> Month following, he was removed by <hi>Habias Corpus</hi> to <hi>Westminster;</hi> and returned over in Court, and at the riſing of the Court was called to the Barr, and Charged and asked who was his Atturney, whereupon he nominated <hi>William Church</hi> Clark of the <hi>Fleet,</hi> and gave him his Fee, and appointed him to put in a Plea of <hi>Nell debet parpatriam</hi> to the Declara<g ref="char:EOLhyphen"/>tion, which he promiſed to do, and <hi>William</hi> expected a Tryal at the next Aſſizes holden at <hi>Reding</hi> in the firſt Month 1670. Bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo it was, that he had no Tryal, nevertheleſs upon the 16<hi>th.</hi> day of the ſame Month <hi>William Childe</hi> the Bayliffe, and <hi>Robert Hopkings</hi> took away all the Cattel that <hi>William</hi> had, <hi>viz. Horſes, Cows,</hi> and <hi>Hoges,</hi> and drove them all to an Inn in <hi>Wallingford,</hi> and Sold them the next Market day for 19<hi>l.</hi> But the Goods were valved to be well worth 80<hi>l.</hi> they uſing to Sell large Penniworths of his Goods, or elſe they might have wan<g ref="char:EOLhyphen"/>ted Chapmen to take it off their hands. Indeed it is to be admired, how great the Lords Love and Mercy was to this <hi>William Dobſon,</hi> by which he was preſerved in patience to undergo ſo great exerciſes, and to look with an outward eye, it might ſeem ſtrange how the man could ſubſiſt, and carry on his buſineſs to maintain ſuch a Familie, when no ſooner he can make ſhift to buy a few Cattle, but on a ſudden they are had away by Droves, and that at ſuch times in which it is moſt to his diſadvantage, and to more than the yearly value of what the Farm was worth by the year, beſides the loſs of time by Impriſonment, and toſſings of his Body from place to place into Confinements. But, to return again to the mat<g ref="char:EOLhyphen"/>ter, this is not all, neither would all this before-related ſatisfie <hi>William</hi>'s unwearied Adverſaries. But after <hi>Ralph VVhiſtler</hi> had thus cruelly dealt with him, the Prieſt of the Pariſh will needs have one fling at him; (and we ſay 'tis well if he did not encourage <hi>R. VV.</hi> in his eager proſecution, and unreaſonable proceedings) and now <hi>VVilliam</hi>'s Goods are gone, his Body muſt to Priſon again upon Excommunication, and the 29<hi>th.</hi> day of the firſt month before mentioned, in which <hi>R. VV.</hi> had cauſed all his Cattle to be fetch away, <hi>VVilliam</hi> was to viſit his Friends (who at that time were many) cloſe Priſoners, upon a conſciencious account, in <hi>Reding</hi> Goal, the Goaler ſeeing him there, told him, if he had not come he muſt have fetcht him, and pull'd out a Warrant and ſhewed it to him, which came
+<pb n="8" facs="tcp:42585:6" rendition="simple:additions"/>
+from the Sheriff, for the apprehending <hi>VVilliam Dobſon,</hi> by virtue of a Writ of <hi>Excomunicat' capiendo:</hi> for not going to their Worſhips, and not receiving the Sacrament (as they called) when as he was ſo little out of Priſon, and ſo tumbled and toſſed up and down, that he was hardly in a capacity to go if he had been minded. But he did not only bear Teſti<g ref="char:EOLhyphen"/>mony againſt the maintainance (<hi>viz.</hi> Tyths) but that Miniſtry which Preach for Hire, and Divine for Mony, and that Worſhip which is in the VVorld out of the Leadings of God's holy and bleſſed Spirit. So <hi>John Thorp</hi> the Goaler ſtopp'd him, and kept him a Priſoner with the reſt of his Friends, whom he came in kindneſs to viſit, and continued a Priſoner two years and a half, and then it pleaſed the Lord ſo to order it, contrary to expectation, that <hi>VVilliam</hi> was releaſed with the reſt of his Friends, from their long Impriſonments, by the King's <hi>Letters Patents</hi> in the 8<hi>th.</hi> monh called <hi>October,</hi> 1672.</p>
+            <p>And in the time of his Impriſonment on <hi>Excomunicat' capiendo, Ralph VVhiſtler</hi> and his Servants, in the Harveſt time took away <hi>VVilliam</hi>'s Corn in the Field, what they pleaſed, ſomtimes a whole Land of Corn together, after it was cut down, upon the account of Tyths, and at ſeveral times after a ſcambling manner, ſo that the value thereof, which in that two years and a halfs time was taken away in Corn, could not eaſily be computed.</p>
+            <p>But <hi>VVilliam</hi> being again out of Priſon, and through the bleſſing of Almighty God had a little increaſed his Stock, <hi>Ralph VVhiſtler</hi> preten<g ref="char:EOLhyphen"/>ding that the former Execution was not yet Levied; upon the 24<hi>th.</hi> day of the 1<hi>ſt.</hi> month, 1673/4 he ſent <hi>John Button</hi> a Bayliff, and <hi>VVilliam Robins</hi> Aſſiſtant of <hi>VVallingford,</hi> who ſeized on and drove away 4 Cows, and 3 Horſes, which were valued to be worth 27<hi>l.</hi>
+            </p>
+            <p>And the 28<hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> day of the ſame month, <hi>VVilliam</hi> having borrowed a Horſe (for he could not keep any of his own) his Man was drawing a Cart and Wheels with the Horſe, in <hi>VVallingford</hi> ſtreet, where <hi>Moſes Slade</hi> the under Sheriff, laid violent hands on the man, and took the Cart and Wheels away from him, which were judged to be worth four Pound.</p>
+            <p>Again, <hi>VVilliam</hi> having bought ſome more Horſes to Plow withal, it being about or in the Seed-time, could not well be without, ſuppoſing by that time ſurely <hi>Ralph VVhiſtler</hi> was ſatisfied; but the 13<hi>th.</hi> day of the 3<hi>d.</hi> month, 1674, <hi>John Button</hi> the Bayliff took away from <hi>VVilliam</hi>'s Servant, out of his Team, two Colts with their Harneſs on, which were judged to be worth 9<hi>l.</hi> upon the former Execution, as they pretended.</p>
+            <p>So that for two years Tyth demanded, at 4<hi>l.</hi> 10<hi>s.</hi> a year, which came to 9<hi>l.</hi> theſe cruel and unreaſonable men (for ſo they have made
+<pb n="9" facs="tcp:42585:6"/>
+their actions to render them to all that ſhall take a view thereof) took away and ſold as much Cattle, <hi>(viz.)</hi> Cows, Horſes, Hoggs, and other good and wearing-cloaths from <hi>VVilliam Dobſon,</hi> as was worth 78<hi>l.</hi> which was about eight times the ſingle value that <hi>Ralph VVhiſtler</hi> deman<g ref="char:EOLhyphen"/>ded, which is very unreaſonable, and will ſurely be a blot, and bring a line of reflection (and that juſtly too) upon him and his Poſterity, though thereby he might think to increaſe his Riches, 'tis well if it prove not as a Canker in his Eſtate (as to ſome others ſuch gain has proved) which by Oppreſſion is heaped together. And the memory of ſuch un<g ref="char:EOLhyphen"/>neighbourly proceedings will remain upon Record, when <hi>Ralph VVhiſtler</hi> is gone to his Grave: and the Lord, if it be his Will forgive him, and lay not this to his charge, in that day when God ſhall open the Book of every mans Conſcience, and give righteous Judgment to every man according to their Deeds done in theſe Bodies, whether they are Good or Evil.</p>
+            <p>But to return again to the matter that's yet behind. In the begin<g ref="char:EOLhyphen"/>ning of the 3<hi>d.</hi> month, 1675, <hi>VVilliam</hi> being then at Liberty, was ſer<g ref="char:EOLhyphen"/>ved with a <hi>Subpoena</hi> to appear before the Barons of the Exchecquer, at the Suit of <hi>Ralph VVhiſtler;</hi> and about the middle of the month follow<g ref="char:EOLhyphen"/>ing, he was arreſted by <hi>VVilliam Child</hi> Bayliff, with the Sheriff's Warrant but through the Sheriff's means was not ſent to Goal until the begin<g ref="char:EOLhyphen"/>ning of the 7<hi>th.</hi> month, called <hi>September;</hi> at which time the Goaler ſent for him to Priſon; and after a little time <hi>VVilliam,</hi> with 20 mor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Friends that were then Priſoners, were by the Goaler <hi>(Joh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tharp)</hi> ſhut up in two very cloſe Wards over the Dungeon, where th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Felons lay ſick of the Small-pox; and one of them dying in the Dungeo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with that Diſtemper, <hi>John Thorp</hi> cauſed the Muckle and nauſty Straw whereon the Felon dyed (which was in a very ſad and loathſom con<g ref="char:EOLhyphen"/>dition to look upon) to be burnt there in the Dungeon, underneath thoſe Rooms where <hi>William</hi> and his Friends were ſhut up; and th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Smoak and infectious Dain thereof was ſo offenſive, as is hard to expreſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame; which ſeized on ſeveral beſides <hi>William,</hi> and the ſame day he and ſeveral of the others grew ill and had the Diſtemper, and ſome<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> died in a ſhort time after; and <hi>William</hi> was ſo nigh death, that few tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaw him could think him a man likely to continue, and was given up by thoſe that were about him as a dying man. And at that ſeaſon the living Power of God, as a ſpring of Love and Life, fill'd his heart, and burſt ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as a Stream, in uttering forth many heavenly Expreſſions, and wholſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exhortations to his Friends and Brethren; to prize the Love of God, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be faithful unto him; ſignifying how good the Lord had been unto him<g ref="char:punc">▪</g> And much more to the ſame effect he ſpoke, with fervent zeal and clear<g ref="char:EOLunhyphen"/>neſs, as if he had been in perfect ſtrength, to the comforting his Fellow
+<pb n="10" facs="tcp:42585:7"/>
+priſoners. And ſpeaking ſo loud, ſome of the Goaler's Family (<hi>viz. Walter Cowdry</hi> and the Maid-ſervant) came up into the Wards, to hear and ſee what was the matter, and when he had fixt his eyes on them, he ſpoke very ſenſibly to them, and alſo concerning <hi>John Thorp</hi> and <hi>Walter Cow<g ref="char:EOLhyphen"/>dry</hi> (the then Turn-key) their cruelty towards him and his Friends, and with great zeal he thunder'd out God's dreadful Judgments, that (he ſaid) would ſuddenly be poured out, againſt the Goaler and his Confederates, in that barbarous proceeding againſt the Innocent, in ſuch Wickedneſs and Cruelty: Alſo ſignifying that the day of their viſitation was near at an end. And much more he ſpoke to that effect, to the admiration of all that were preſent. And the Goaler and his Wife are ſince both dead—</p>
+            <p>But it pleaſed Almighty God, with whom all things are poſſible, that after a long time of weakneſs, <hi>William Dobſon</hi> recovered a little ſtrength of body, and had a little Liberty to take the Air, and ſomtimes to go to ſee his Family, and be there to look a little over his outward concerns, but remained weakly in Body, and never recovered his former ſtrength from that time. And, notwithſtanding the Prieſt of the Pariſh, of whom <hi>Ralph Whistler</hi> rented the Tyth, was dead, and <hi>Whiſtler</hi> off from the Bar<g ref="char:EOLhyphen"/>gain of renting it, and had counted with the Prieſt before he dyed, and abated to the Prieſt what he valued the Tyth of <hi>William</hi>'s Farm to be worth: Yet <hi>Ralph Whiſtler</hi> kept him a Priſoner for non-payment thereof to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is dying day; though he owed him nothing; which (ſaid <hi>William</hi> in his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife-time) is a further manifeſtation of <hi>Ralph Whiſtler</hi>'s cruelty and un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſonableneſs in his actinggs towards him for the ſpace of thirteen years, becauſe for the ſpace of thirteen years he could not for Conſcience-ſake pay Tyths. And the Lord in theſe troubles which he permitted him to be exerciſed withal, did wonderfully uphold and preſerve him, and bleſſed his endeavours; that notwithſtanding all the endeavours of his Adverſaries, which might tend to his ruine, yet he thrived in his outward Eſtate, which hath ben taken notice of by many; and that the eminent hand of the Al<g ref="char:EOLhyphen"/>mighty God was manifeſted greatly for his good every way, which is matter of encouragement unto all that are or hereafter may be called by the Lord <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſuffer for the ſame Teſtimony. Now, <hi>William Dobſon,</hi> having thus by the aſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtance of the Lord's Power fought the good Fight of Faith, and kept the Word of his Patience, laid down his head in Peace, and finiſhed his courſe, and upon the laſt day of the 3<hi>d.</hi> month, called <hi>May,</hi> 1677. he died a Priſo<g ref="char:EOLhyphen"/>ner for the Truth, and his name is recorded in the Book of Life amongſt <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e faithfull Sufferers and Martyrs, for the ancient Teſtimony of Jeſus <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt, againſt that great Oppreſſion of Tyths.</p>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="11" facs="tcp:42585:7" rendition="simple:additions"/>
+            <head>Here followeth A Brief RELATION Of the late Sufferings of Michael Reynolds Of Farringdon, in the ſame County; becauſe he could not for Conſcience-ſake, pay Tyths, to ROBERT PYE, Impropriator.</head>
+            <p>IN the 7<hi>th.</hi> month, 1678. <hi>Michael Reynolds</hi> was Arreſted for Tyths at the Suit of <hi>Robert Pye;</hi> and kept by the Bayliffs, Priſo<g ref="char:EOLunhyphen"/>ner at an Inn one day; and one (unknown to <hi>Michael</hi>) who pre<g ref="char:EOLunhyphen"/>tended himſelf an Attorney, promiſing to appear for him, he was le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> go: And <hi>Robert Pye</hi> proſecuted his Suit, (having no Defence ma<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> at all againſt him) and procured an Execution for ſixty Pound.</p>
+            <p>And on the 19<hi>th.</hi> day of the 6<hi>th.</hi> month, 1679. there came <hi>Joh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pullen</hi> and <hi>James Clark</hi> of <hi>Abingdon,</hi> and <hi>William Tombes</hi> of <hi>Farring<g ref="char:EOLunhyphen"/>don,</hi> (Bayliffs) with the ſaid Execution, and ſeized on, and Drov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away nine of <hi>Michael Reynolds</hi>'s Cows, and a Colt of two years old<g ref="char:punc">▪</g> and likewiſe ſeized on a Barn full of Corn; and the ſame day al<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they arreſted <hi>Michael Reynolds</hi> in the Suit of <hi>Robert Pye;</hi> and kept hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Priſoner at an Inn moſt part of a day, and when they ſaw he could <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:42585:8"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ploy an Attorney (but was given up to endure Impriſonment) they let <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m go.</p>
+            <p>And the 22<hi>d.</hi> day of the ſame month, two of the fore-mentioned <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayliffs <hi>(viz.) James Clarke</hi> and <hi>William Tombes,</hi> took away a Mare <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m <hi>Michael</hi> upon the ſame Execution; and in a little time after, the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Bayliffs ſent two men to thraſh out <hi>Michael</hi>'s Corn in the Barn <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich they ſeized on before) whoſe Names were <hi>William Farmer</hi> and <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>arles Bray</hi> of <hi>Farringdon,</hi> and they thraſht and winnowed all the Corn <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at Barn, which was carried away and ſold.</p>
+            <p>Again, the 10<hi>th.</hi> day of the 8<hi>th.</hi> month following, the ſaid Bayliffs <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me again to <hi>Michael Reynold</hi>'s Houſe, and ſaid they had not yet <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ken enough; and then they ſeized on the other Barn full of Corn, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the two Thraſhers again to Work, and they thraſht out the Corn in that <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rn alſo.</p>
+            <p>And the 25<hi>th.</hi> day of the 9<hi>th.</hi> month following, the two Thraſhers <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y the appointmnnt of <hi>John Pulline</hi>) took Witneſs, and delivered <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Key and Lock of <hi>Michael Reynolds</hi>'s Barn to him, and gave an <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>count under their hands, that the Corn thraſht by them, and winnowed, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich was carried away and ſold, to anſwer the Execution before-men<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oned. was in all, of Barly 56 <hi>Quarters</hi> and a half, and was by them <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ged worth, at the times when it was carried 17<hi>s.</hi> a Quarter one with <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other, which came to
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>49<hi>l.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                     <cell>9<hi>d</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſo of Beans and Peaſe 9 <hi>Quarter,</hi> at</cell>
+                     <cell>8<hi>l.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                     <cell>0<hi>d</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>d the Cattle taken away, as before mentioned, were worth</cell>
+                     <cell>40<hi>l.</hi>
+                     </cell>
+                     <cell>0<hi>s.</hi>
+                     </cell>
+                     <cell>0<hi>d</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Which amount to in all</cell>
+                     <cell>97<hi>l.</hi>
+                     </cell>
+                     <cell>16<hi>s.</hi>
+                     </cell>
+                     <cell>9<hi>d.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>All this was taken away for one years Tyth from <hi>Michael Reynolds,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the whole Rent of the Land he holds is, but 55<hi>l.</hi> a year, and of <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at there is in Medow, where they took the Tyth by Force, and in paſture, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here <hi>Robert Pye</hi> claims none to the value of 20<hi>l.</hi> a year; So that the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hole Rent of that Land which he had any Colour of Law to ſue for, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll not amount to 40<hi>l.</hi> a year: And it may be ſuppoſed that the Tyth <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>annot in all likelyhood exceed a 4<hi>th.</hi> part of the Rent, which at utmoſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>annot be above 10<hi>l</hi> a year.</p>
+            <p>And therefore it is evidently manifeſt, how cruelly and unjuſtly <hi>Robert <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye</hi> hath dealt in this Caſe with his Neighbour <hi>Michael Reynolds</hi> (although <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other Caſes we have not had much Cauſe to find Fault with him) who <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the denial of ſcarce 10<hi>l.</hi> demanded, hath cauſed to be taken away <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cattel and Corn, the value of 97<hi>l.</hi> 16<hi>s.</hi> 9<hi>d.</hi> which is near ten times <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much more. Oh horrible Injuſtice, that ever ſuch Actions ſhould be
+<pb n="13" facs="tcp:42585:8"/>
+found amongſt ſuch as profeſs Chriſtianity, is great pity, and is a ſha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the profeſſors thereof.</p>
+            <p>And beſides all this, the Servants of <hi>R. P.</hi> in the Harveſt-time, 16<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> did take away from <hi>Michael Reynolds,</hi> both of Hay and Corn what t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pleaſed, upon the account of Tyths.</p>
+            <p>The Truth hereof hath been ſo public<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> knovvn in and about the Tovvn <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Farringdon,</hi> that it needs no furt<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Prooff: But is ſubſcribed to by a S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ferer for the Truth, againſt Oppr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſion.</p>
+            <closer>
+               <signed>MICHAEL REYNOLDS.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </back>
+   </text>
+</TEI>
